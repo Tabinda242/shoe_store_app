@@ -1,0 +1,30 @@
+{
+    "adidas-sneakers-digital": {
+        "name": "ADIDAS-SNEAKER",
+        "img": "https://cdn.luxe.digital/media/2020/02/17134409/adidas-originals-superstar-og-men-classic-sneakers-luxe-digital.jpg"
+    },
+    "nike-sneakers-digital": {
+        "name": "NIKE-SNEAKER",
+        "img": "https://cdn.luxe.digital/media/2020/02/17134553/nike-gts-16-txt-men-sneakers-under-100-luxe-digital.jpg"
+    },
+    "nike-black-sneakers-digital": {
+        "name": "NIKE-BLACK-SNEAKER",
+        "img": "https://cdn.luxe.digital/media/2020/02/17134546/nike-black-air-max-270-react-bestselling-men-sneakers-luxe-digital.jpg"
+    },
+    "vans-sneakers-digital": {
+        "name": "VANS-SNEAKER",
+        "img": "https://cdn.luxe.digital/media/2020/02/17134747/vans-black-og-old-skool-sneakers-versatile-men-luxe-digital.jpg"
+    },
+    "oliver-sneakers-digital1": {
+        "name": "OLIVER-SNEAKER1",
+        "img": "https://cdn.luxe.digital/media/2020/02/17134619/oliver-cabell-low-top-men-minimalist-sneakers-luxe-digital.jpg"
+    },
+    "oliver-sneakers-digital2": {
+            "name": "OLIVER-SNEAKER2",
+            "img": "https://cdn.luxe.digital/media/2020/02/17134619/oliver-cabell-low-top-men-minimalist-sneakers-luxe-digital.jpg"
+    },
+    "nike-best-sneakers-digital": {
+        "name": "NIKE-BEST-SNEAKER",
+        "img": "https://cdn.luxe.digital/media/2020/02/17134502/dior-nike-collaboration-best-men-sneakers-luxe-digital.jpg"
+    }
+}
