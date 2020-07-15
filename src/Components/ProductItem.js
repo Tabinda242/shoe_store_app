@@ -15,7 +15,8 @@ function ProductItem() {
       <div className="prd-item">
             <h2>{Maleshoe.name}</h2>
             <img src={Maleshoe.img} height={250} alt="shoe img" />
-            <h2>Colors: White, Black, Red</h2>
+            <h2>Price: {Maleshoe.price}</h2>
+            <h2>Colors: {Maleshoe.color}</h2>
             <h3>Shipping: free Shipping</h3>
           </div>
     </div>
